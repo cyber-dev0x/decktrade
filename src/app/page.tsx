@@ -6,7 +6,7 @@ import MarketplaceSection from "@/components/MarketplaceSection";
 import CollectionSection from "@/components/CollectionSection";
 import TradeSection from "@/components/TradeSection";
 
-const GITHUB_URL = "https://github.com/your-username/decktrade";
+const GITHUB_URL = "https://github.com/cyber-dev0x/decktrade";
 
 interface Card {
   id: string;
